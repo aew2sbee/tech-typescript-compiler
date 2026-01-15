@@ -2,6 +2,9 @@
   "devDependencies": {
     "@babel/cli": "^7.28.3",
     "@babel/core": "^7.28.5",
-    "@babel/preset-typescript": "^7.28.5"
+    "@babel/preset-typescript": "^7.28.5",
+    "@swc/cli": "^0.7.10",
+    "@swc/core": "^1.15.8",
+    "esbuild": "^0.27.2"
   }
 }
